@@ -7,3 +7,6 @@ computing descriptive statistics. Furthermore, a script was written that takes i
 create an interactive experience in the terminal to present these statistics.
 
 Used Python 3 libraries: NumPy and pandas.
+
+You can find the datasets used in this project in the following google drive link:
+https://drive.google.com/drive/folders/17DogPnmJfm1x-mnS3rh5ORqZuolWJMNs?usp=sharing
